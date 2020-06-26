@@ -5,6 +5,8 @@
 
 #include "mbed.h"
 
+using namespace mbed;
+
 #define WAIT_TIME_MS 500 
 DigitalOut led1(LED1);
 
